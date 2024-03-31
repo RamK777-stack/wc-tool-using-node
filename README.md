@@ -13,8 +13,10 @@ This is my solution for build own wc tool challenges coding https://codingchalle
 ```ccwc --help```
 
 ```ccwc test.txt```
-//it will print 
-2 2 11 test.txt 
+
+It will print
+`2 2 11 test.txt` 
+newline, word, byte count, file name
 
 Read from standard input if no filename is specified.
 
