@@ -1,0 +1,17 @@
+{
+  "name": "node-cli-poc",
+  "version": "2.0.0",
+  "main": "./bin/index.js",
+  "bin": {
+    "ccwc": "./bin/index.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "ram",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "yargs": "^17.7.2"
+  }
+}
