@@ -27,5 +27,6 @@ Open terminal and execute wc test.txt
 
 To read more about wc https://linux.die.net/man/1/wc
 
+Helpful blog: https://dev.to/rushankhan1/build-a-cli-with-node-js-4jbi
 
 
